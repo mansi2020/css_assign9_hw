@@ -1,6 +1,9 @@
-# Hosted Link :
+# Hosted Link https://mansi2020.github.io/css_assign9_hw/:
 
-# UI :  
+# UI :    
+
+![Screenshot 2023-08-24 192257](https://github.com/mansi2020/css_assign9_hw/assets/57188328/f9286e4f-4ea8-4a2a-86d3-bb763a74d616)
+<br>
 # HTML DESCRIPTION: 
 main: Represents the main content of a document and should be unique to the document. It typically includes the central content of a webpage, excluding headers, footers, and sidebars.
 
